@@ -1,0 +1,16 @@
+C:\Users\waleed\source\repos\with\with\bin\Debug\net5.0\with.exe
+C:\Users\waleed\source\repos\with\with\bin\Debug\net5.0\with.deps.json
+C:\Users\waleed\source\repos\with\with\bin\Debug\net5.0\with.runtimeconfig.json
+C:\Users\waleed\source\repos\with\with\bin\Debug\net5.0\with.runtimeconfig.dev.json
+C:\Users\waleed\source\repos\with\with\bin\Debug\net5.0\with.dll
+C:\Users\waleed\source\repos\with\with\bin\Debug\net5.0\ref\with.dll
+C:\Users\waleed\source\repos\with\with\bin\Debug\net5.0\with.pdb
+C:\Users\waleed\source\repos\with\with\obj\Debug\net5.0\with.csproj.AssemblyReference.cache
+C:\Users\waleed\source\repos\with\with\obj\Debug\net5.0\with.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waleed\source\repos\with\with\obj\Debug\net5.0\with.AssemblyInfoInputs.cache
+C:\Users\waleed\source\repos\with\with\obj\Debug\net5.0\with.AssemblyInfo.cs
+C:\Users\waleed\source\repos\with\with\obj\Debug\net5.0\with.csproj.CoreCompileInputs.cache
+C:\Users\waleed\source\repos\with\with\obj\Debug\net5.0\with.dll
+C:\Users\waleed\source\repos\with\with\obj\Debug\net5.0\ref\with.dll
+C:\Users\waleed\source\repos\with\with\obj\Debug\net5.0\with.pdb
+C:\Users\waleed\source\repos\with\with\obj\Debug\net5.0\with.genruntimeconfig.cache
